@@ -10,6 +10,7 @@ David's Blog
 
 ### 最新
 
+* [kotlin 中 lazy](http://blog.zhongshan.ink/articles/2019/07/24/1563963642051.html)
 * [我在 GitHub 上的开源项目](http://blog.zhongshan.ink/my-github-repos)
 * [KMP算法](http://blog.zhongshan.ink/articles/2019/07/24/1563952322960.html)
 * [Fragmentation 库学习笔记](http://blog.zhongshan.ink/articles/2019/07/24/1563939662829.html)
